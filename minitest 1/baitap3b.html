@@ -5,11 +5,15 @@
     <title>Title</title>
 </head>
 <body>
-<input id="inputA" type="number" placeholder="Nhập a vào đây">
-<input id="inputB" type="number" placeholder="Nhập b vào đây">
-<input type="button" value="a ^ 2" onclick="onClick1()">
-<input type="button" value="a ^ b" onclick="onClick2()">
-<button type="reset" onclick="reset()">nhập lại</button>
+<h1>Tính a^2 và a^b</h1>
+<form>
+    <label for="a">Nhập a:</label>
+    <input type="number" id="a" name="a"><br><br>
+    <label for="b">Nhập b:</label>
+    <input type="number" id="b" name="b"><br><br>
+    <input type="submit" value="Tính">
+</form>
+
 <p id="result"></p>
 <script src="baitap3b.js"></script>
 

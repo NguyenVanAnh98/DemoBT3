@@ -5,12 +5,13 @@
     <title>Title</title>
 </head>
 <body>
-<input id="input" type="number" placeholder="nhập a vào đây">
-<input type="button" value="chu vi" onclick="perimeter()">
-<input type="button" value="diện tích" onclick="acreage()">
-<button type="reset" onclick="reset()">nhập lại</button>
-<p id="result"></p>
-<script src="baitap3a.js"></script>
-
+<h1>Tính chu vi và diện tích hình vuông</h1>
+<label for="sideLength">Cạnh hình vuông (a):</label>
+<input type="number" id="sideLength">
+<button onclick="calculateSquareProperties()">Tính toán</button>
+<p id="perimeter"></p>
+<p id="area"></p>
+<p id="sideLengthResult"></p>
+<script  src="baitap3a.js"></script>
 </body>
 </html>

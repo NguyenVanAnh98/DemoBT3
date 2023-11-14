@@ -1,15 +1,15 @@
 
-function perimeter() {
-    let a = document.getElementById('input').value;
-    let C = a*4;
-    document.getElementById('result').innerHTML = 'result : ' + C;
-}
+function calculateSquareProperties() {
+    let aInput = document.getElementById("sideLength");
+    let perimeterOutput = document.getElementById("perimeter");
+    let areaOutput = document.getElementById("area");
+    let sideLengthOutput = document.getElementById("sideLengthResult");
 
-function acreage() {
-    let a = document.getElementById('input').value;
-    let S = a*a
-    document.getElementById('result').innerHTML = 'result : ' + S;
-}
-function reset() {
-    document.getElementById('input').value = "";
+    let a = parseFloat(aInput.value);
+    let perimeter = 4 * a;
+    let area = a * a;
+
+    perimeterOutput.innerHTML = "Chu vi: " + perimeter;
+    areaOutput.innerHTML = "Diện tích: " + area;
+    sideLengthOutput.innerHTML = "Độ dài cạnh: " + a;
 }
