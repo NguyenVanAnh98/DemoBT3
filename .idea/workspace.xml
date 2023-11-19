@@ -7,29 +7,14 @@
     <list default="true" id="18e20bb4-3fe8-4d31-9fe7-0b861dcf46da" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/BT_cautrucđk2/BT_luyentapcautrucđk2/BT_11/BT_11.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/BT_cautrucđk2/BT_luyentapcautrucđk2/BT_11/BT_11.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitest 1/baitap3e_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitest 1/baitap3e_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitest 1/baitap3e_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitest 1/baitap3e_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitest 1/baitap3e_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minitest 1/baitap3e_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled1/js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BT_cautrucđk2" beforeDir="false" afterPath="$PROJECT_DIR$/BT_cautrucđk2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BT_cautrucđk2/BT_luyentapcautrucđk2/BT_10/BT10_tinhgiadien.html" beforeDir="false" afterPath="$PROJECT_DIR$/BT_cautrucđk2/BT_luyentapcautrucđk2/BT_10/BT10_tinhgiadien.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BT_cautrucđk2/BT_luyentapcautrucđk2/BT_10/BT10_tinhgiadien.js" beforeDir="false" afterPath="$PROJECT_DIR$/BT_cautrucđk2/BT_luyentapcautrucđk2/BT_10/BT10_tinhgiadien.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BT_cautrucđk2/BT_luyentapcautrucđk2/BT_6/BT6_giaiphuongtrinhbac1.js" beforeDir="false" afterPath="$PROJECT_DIR$/BT_cautrucđk2/BT_luyentapcautrucđk2/BT_6/BT6_giaiphuongtrinhbac1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BT_cautrucđk2/BT_luyentapcautrucđk2/BT_8/BT8_.js" beforeDir="false" afterPath="$PROJECT_DIR$/BT_cautrucđk2/BT_luyentapcautrucđk2/BT_8/BT8_.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BT_cautrucđk2/BT_luyentapcautrucđk2/BT_9/BT9_.js" beforeDir="false" afterPath="$PROJECT_DIR$/BT_cautrucđk2/BT_luyentapcautrucđk2/BT_9/BT9_.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minitest 1/baitap3a.html" beforeDir="false" afterPath="$PROJECT_DIR$/minitest 1/baitap3a.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minitest 1/baitap3a.js" beforeDir="false" afterPath="$PROJECT_DIR$/minitest 1/baitap3a.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minitest 1/baitap3b.html" beforeDir="false" afterPath="$PROJECT_DIR$/minitest 1/baitap3b.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minitest 1/baitap3b.js" beforeDir="false" afterPath="$PROJECT_DIR$/minitest 1/baitap3b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minitest 1/baitap3c.html" beforeDir="false" afterPath="$PROJECT_DIR$/minitest 1/baitap3c.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minitest 1/baitap3c.js" beforeDir="false" afterPath="$PROJECT_DIR$/minitest 1/baitap3c.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minitest 1/baitap3d.html" beforeDir="false" afterPath="$PROJECT_DIR$/minitest 1/baitap3d.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minitest 1/baitap3d.js" beforeDir="false" afterPath="$PROJECT_DIR$/minitest 1/baitap3d.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TH_sukienchuot/TH_sukienChuot.html" beforeDir="false" afterPath="$PROJECT_DIR$/TH_sukienchuot/TH_sukienChuot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,28 +32,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2Y6tSi6GIm7xdyTfLQwK2otVD2H" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699857858614</updated>
       <workItem from="1699857859653" duration="21718000" />
+      <workItem from="1700362263235" duration="650000" />
     </task>
     <servers />
   </component>
